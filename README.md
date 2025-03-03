@@ -5,3 +5,5 @@ This project provides an in-depth analysis of Amazon Prime data using Power BI. 
 -> Tools & Technologies
 Power BI: Data visualization and dashboard creation
 Excel: Data preprocessing and cleaning
+
+![DashBoard](https://github.com/user-attachments/assets/6dfdef4a-7230-4497-8942-17c46a365303)
